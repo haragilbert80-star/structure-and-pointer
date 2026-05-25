@@ -19,17 +19,9 @@ This project demonstrates the use of **structures** and **pointers** in C++. It 
   - Uses a pointer `ptrTime` to modify `lunchTime`.  
   - Prints both times.  
 
-## 4. Usage
-### Compilation
-bash
-g++ main.cpp -o time_example
-
-
-### Execution
-bash
-./time_example
 
 ## 5. Expected Output
 
 Lunch will be held at 12 : 30 : 20
+
 Dinner will be held at 18 : 30 : 0
